@@ -5,9 +5,15 @@
     font-family: sans-serif;
 }
 
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .card{
     position: relative;
-    margin: 20%;
     background-color: #fff;
     height: 300px;
     width: 300px;
