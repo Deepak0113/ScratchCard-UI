@@ -1,7 +1,7 @@
 # ScratchCard-UI
 
-## Scratch Card Before
+### Scratch Card Before
 ![plot](./ScratchCardUI-before.png)
 
-## Scratch Card After
+### Scratch Card After
 ![plot](./ScratchCardUI-after.png)
